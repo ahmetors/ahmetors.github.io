@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Ahmet Örs İletişim Ltd. Şti.</title>
-    <link>ahmetors.com.tr/</link>
+    <link>/</link>
     <description>Recent content in Home on Ahmet Örs İletişim Ltd. Şti.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 May 2021 15:37:57 +0700</lastBuildDate><atom:link href="ahmetors.com.tr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 15:37:57 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>ahmetors.com.tr/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>ahmetors.com.tr/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
